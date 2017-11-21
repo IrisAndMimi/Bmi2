@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">逼欸姆哀</string>
+    <string name="UrBmi_is">"您的BMI是 "</string>
+    <string name="calculate_bmi">算個</string>
+    <string name="OK">好的呦</string>
+    <string name="Result_Title">結果</string>
+    <string name="height">身高(公尺)</string>
+    <string name="info">說明</string>
+    <string name="weight">體重(公斤)</string>
+    <string name="Dot">哦~</string>
+    <string name="Help">這是什麼東東??</string>
+    <string name="Info"> BMI 計算機</string>
+</resources>

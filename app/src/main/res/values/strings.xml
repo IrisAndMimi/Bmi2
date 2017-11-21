@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">BMI</string>
+    <string name="UrBmi_is">"Your BMI is "</string>
+    <string name="Result_Title">Result</string>
+    <string name="weight">Weight</string>
+    <string name="height">Height</string>
+    <string name="calculate_bmi">Calculate BMI</string>
+    <string name="info">Info</string>
+    <string name="OK">Okay</string>
+    <string name="Dot">.</string>
+    <string name="Help">What\'s This ??</string>
+    <string name="Info">BMI Calculator.</string>
+    <string name="extra_bmi">Extra_BMI</string>
+    <string name="textview">TextView</string>
+</resources>
